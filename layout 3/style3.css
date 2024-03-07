@@ -1,0 +1,30 @@
+body *{
+    border: 2px solid #000;
+    height:70px;
+    margin: 5px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Arial;
+}
+
+nav {
+    height: 70px;
+}
+
+aside {
+    float: left;
+    width: 30%;
+    height: 100vh;
+}
+
+section{
+    float: left;
+    width: 36%;
+    height: 100vh;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer{
+    margin-top: 41rem;
+}
